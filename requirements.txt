@@ -1,0 +1,7 @@
+langchain
+openai
+langchain-openai
+faiss-cpu
+tiktoken
+python-dotenv
+langchainhub # For pulling prompts if needed, though we'll define our own
