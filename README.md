@@ -1,5 +1,5 @@
-Project Structure and Documentation:
+Project Structure and Documentation: (see code)
 
 
-     Adding more advanced ReAct or CoT reasoning if needed for complex queries.
+     Project Structure and Documentation_ rag_chatbot_project_.md
  
